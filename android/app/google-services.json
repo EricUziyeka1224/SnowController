@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31755038751",
+    "firebase_url": "https://snowmelt-test.firebaseio.com",
+    "project_id": "snowmelt-test",
+    "storage_bucket": "snowmelt-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31755038751:android:7351ab8ddcd9ad4b9c652a",
+        "android_client_info": {
+          "package_name": "com.snowcontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31755038751-b1vn76189hs6cnhlevcnlp7rpjkj7b3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snowcontroller",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "31755038751-316t5u6212ptg99qhhb1kah4nfs2peua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqDj9p5erVAtPd0N77Ea_RR6ToRqIbG3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31755038751-316t5u6212ptg99qhhb1kah4nfs2peua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
